@@ -1,0 +1,10 @@
+products={
+    "product1":"name1","laptop":200,
+    "product2":"name2","mobile":300,
+    "product3":"name3","tablet":400,
+    "product4":"name4","desktop":500
+}
+print(products["product1"])
+print(products["product2"])
+print(products["product3"]) 
+print(products["product4"])
